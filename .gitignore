@@ -1,5 +1,6 @@
 
 Tensorflow/
 lpd/
-.ipynb_checkpoints/
+.ipynb_checkpoints
 setup_tuto.txt
+.gitignore
